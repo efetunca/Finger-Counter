@@ -42,7 +42,7 @@ or simply download the project as ZIP file.
 
 ![Screenshot 3 - Right Hand with 3 Fingers](https://raw.githubusercontent.com/efetunca/Finger-Counter/main/.github/images/Screenshot_3.jpg)
 
-## Roadmap
+## Future Updates
 
 - The ability to detect both hands at the same will be added.
 
